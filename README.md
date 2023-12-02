@@ -1,6 +1,6 @@
 # Change_The_Color
 
-****
+**If you want to change the color randomly (with JS), check out my code ♥️👀**
  
 
 
